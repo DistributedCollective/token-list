@@ -1,0 +1,14 @@
+{
+  "name": "BOB Testnet",
+  "chainId": 808813,
+  "rpcUrls": [
+    "https://bob-sepolia.rpc.gobob.xyz"
+  ],
+  "nativeCurrency": {
+    "symbol": "tETH",
+    "decimals": 18
+  },
+  "blockExplorerUrls": [
+    "https://bob-sepolia.explorer.gobob.xyz"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "BOB",
+  "chainId": 60808,
+  "rpcUrls": [
+    "https://rpc.gobob.xyz"
+  ],
+  "nativeCurrency": {
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "blockExplorerUrls": [
+    "https://explorer.gobob.xyz"
+  ]
+}

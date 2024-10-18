@@ -1,0 +1,14 @@
+{
+  "name": "RSK Testnet",
+  "chainId": 31,
+  "rpcUrls": [
+    "https://testnet.sovryn.app/rpc"
+  ],
+  "nativeCurrency": {
+    "symbol": "tRBTC",
+    "decimals": 18
+  },
+  "blockExplorerUrls": [
+    "https://explorer.testnet.rsk.co"
+  ]
+}

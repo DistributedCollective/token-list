@@ -1,0 +1,15 @@
+{
+  "name": "RSK",
+  "chainId": 30,
+  "rpcUrls": [
+    "https://rsk-live.sovryn.app/rpc",
+    "https://mainnet.sovryn.app/rpc"
+  ],
+  "nativeCurrency": {
+    "symbol": "RBTC",
+    "decimals": 18
+  },
+  "blockExplorerUrls": [
+    "https://explorer.rsk.co"
+  ]
+}
